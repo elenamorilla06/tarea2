@@ -1,0 +1,10 @@
+path_chip: /home/bag2023_1/experiment/samples/chip
+path_input: /home/bag2023_1/experiment/samples/input
+path_genome: /home/bag2023_1/experiment/genome/chromosome1.fa
+path_annotation: /home/bag2023_1/experiment/annotation/chromosome1.gtf
+experiment_name: chipiron
+working_directory: /home/bag2023_1/tarea2
+installation_directory: /home/bag2023_1/tarea2
+# Si se trabaja con un factor de transcripción cambiar a TF: TRUE.
+# Si se trabaja con una marca epigenética cambiar a TF: FALSE.
+TF: TRUE
